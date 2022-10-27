@@ -1,16 +1,27 @@
 # showcase_view
 
-A new Flutter project.
+A Flutter package allows you to Showcase/Highlight your widgets step by step.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+![1666867319266](image/README/1666867319266.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+1. Add dependency to `pubspec.yaml`
+   *Get the latest version in the 'Installing' tab on [pub.dev](https://pub.dev/packages/showcaseview)*
+
+```dart
+dependencies:
+    showcaseview: <latest-version>
+
+
+```
+
+---
+
+## Credits
+
+Simform Solutions : https://github.com/SimformSolutionsPvtLtd
